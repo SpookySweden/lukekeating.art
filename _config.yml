@@ -16,8 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "Animations.html", title: "portfolios"}
+  - {file: "Comics.html", title: "comics"}
   - {file: "index.html", title: "home page"}
   - {file: "README.md"}
+  - {file: "Portfolios.html", title: "portfolios"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "luke.keating.lk03@gmail.com"}
