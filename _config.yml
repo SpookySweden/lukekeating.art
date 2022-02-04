@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "home page"}
+  - {file: "L-BATER-WATSON (1).pdf", title: "CV"}
   - {file: "Animations.html", title: "animations"}
   - {file: "Comics.html", title: "comics"}
   - {file: "README.md"}
