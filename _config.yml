@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "L-BATER-WATSON (1).pdf", title: "CV"}
   - {file: "Animations.html", title: "animations"}
-  - {file: "Comic.html", title: "comics"}
+  - {file: "Comic.md", title: "comics"}
   - {file: "Portfolios.html", title: "portfolios"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
