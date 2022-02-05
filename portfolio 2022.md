@@ -11,7 +11,7 @@ layout: page
   <canvas id="my_canvas"></canvas>
   
   <script>
-    pdfjslib.getdocument('./sequential art.pdf').then(doc => {
+    pdfjslib.getdocument('./Luke Bater.pdf').then(doc => {
       console.log("this file has " + doc._pdfinfo.numpages + " pages");
     });
   </script>
