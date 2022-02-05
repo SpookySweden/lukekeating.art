@@ -1,7 +1,7 @@
 
 ---
 title: "Other 2021 artwork"
-layout: page
+layout: default
 ---
 
 
