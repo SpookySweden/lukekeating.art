@@ -7,4 +7,10 @@ title: "Comics"
 
 [Comic 1: DEBASER](https://debaserpoject.xyz/index.html)
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/SpookySweden/lukekeating.art/blob/master/Luke%20Bater.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe
+    src="https://drive.google.com/viewerng/viewer?embedded=true&https://github.com/SpookySweden/lukekeating.art/blob/master/Luke%20Bater.pdf#toolbar=0&scrollbar=0"
+    frameBorder="0"
+    scrolling="auto"
+    height="100%"
+    width="100%"
+></iframe>
