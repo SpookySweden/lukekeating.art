@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Other 2021 artwork"
 ---
 this is a test with an image 
